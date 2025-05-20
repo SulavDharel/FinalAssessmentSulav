@@ -90,6 +90,6 @@ com.example.FinalAssessment
 5. Application prompt to the dashboard screen where list of all entities are displayed.
 6. Click on the entity to see the full information about it.
 
-Acknowledgements:
+## Acknowledgements:
 -Victoria Univerity - NIT3213
 -API: https://nit3213api.onrender.com/
