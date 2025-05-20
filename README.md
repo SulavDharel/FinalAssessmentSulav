@@ -21,17 +21,17 @@ GET /dashboard/{keypass}: used to retrive information from the API.
 
 ## Features:
 
-# login screen:
+### login screen:
 -provide username and password field
 -three different locations
 -validate user crediantial from the api.
 
-# Dashboard screen :
+### Dashboard screen :
 -fetch data with the help of keypass
 -display entities in recylcerview
 -provide further details of the entities.
 
-# Detail screen:
+### Detail screen:
 -Provide additional information of the entities including the discription
 
 ## Architecture
@@ -71,17 +71,17 @@ com.example.FinalAssessment
 
 ## Setup Instructions:
 
-# Software:
+### Software:
 -Android Studio
 -Andriod SDK 21 or higher
 -Gridle 7.0+
 
-# Installation:
+### Installation:
 -first clone the project in your android studio.
 -wait for gradle to download all the dependencies
 -choose an emulator and run the project. 
 
-# Application:
+## Application:
 1. Lauch the application
 2. Enter your name in the username section and your victoria university id in password section.
 3. choose the campus location through the drop down menu below login.
