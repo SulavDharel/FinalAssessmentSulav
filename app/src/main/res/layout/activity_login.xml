@@ -7,6 +7,20 @@
     android:background="#F8F9FA"
     tools:context=".ui.login.LoginActivity">
 
+    <!-- 🌟 Welcome Message -->
+    <TextView
+        android:id="@+id/welcomeMessage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Welcome to VU Student Portal"
+        android:textSize="28sp"
+        android:textColor="#212121"
+        android:textStyle="bold"
+        android:layout_marginTop="48dp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
     <!-- Login Form Card -->
     <androidx.cardview.widget.CardView
         android:id="@+id/cardView"
